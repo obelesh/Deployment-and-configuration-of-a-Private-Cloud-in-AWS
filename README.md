@@ -1,7 +1,7 @@
 # EX - 4 Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 
-Name: OBELESH R
-Reg no: 212224040228
+## Name: OBELESH R
+## Reg no: 212224040228
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
